@@ -1,0 +1,16 @@
+.PackageDistribution{
+    margin: auto;
+    width: 30vw;
+    padding: 1.5vw;
+    text-align: center;
+    border: 2px double brown;
+    min-width: 330px;
+}
+
+.PackageDistribution h2{
+    margin-bottom: 15px;
+}
+
+.PackageDistribution .MuiInputLabel-formControl {
+    right: 0!important;
+}

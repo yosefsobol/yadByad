@@ -1,0 +1,415 @@
+body{
+  /* background-color: crimson; */
+  direction: rtl;
+}
+/* .MuiFormControl-roo{
+vertical-align: sub;
+} */
+.Update{
+  /* background-color: green; */
+  width: 85%;
+  margin: auto;
+} 
+
+.Update .MuiSelect-root.MuiSelect-select.MuiSelect-selectMenu.MuiInputBase-input.MuiInput-input {
+text-align: right;
+padding-right: 5px;
+}
+.Update .MuiInputLabel-formControl{
+right: 0; 
+}
+.Update .MuiInputLabel-root{text-align: right; padding-left: 24px;}
+
+.Update .MuiFormControl-root.MuiTextField-root.MuiFormControl-fullWidth{
+vertical-align: sub;
+}
+
+.Update #MaritalStatus svg.MuiSvgIcon-root.MuiSelect-icon{
+right: 14px;
+}
+.Update #NoOfPersons svg.MuiSvgIcon-root.MuiSelect-icon{
+right: 12px;
+}
+.Update #residence svg.MuiSvgIcon-root.MuiSelect-icon{
+right: -30px;
+}
+.Update #Population svg.MuiSvgIcon-root.MuiSelect-icon{
+right: -40px;
+}
+.Update label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated{
+color:#999; 
+font-size:18px;
+}
+.Update label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled{
+transform-origin: top right;
+}
+.Update label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated{
+transform-origin: top right;
+
+}
+.Update .MuiSelect-icon{
+margin-right: 97px;  
+}
+.Update button.MuiButtonBase-root.MuiIconButton-root {
+padding: 0;
+}
+
+
+.Update #AutocompleteStreet .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiAutocomplete-inputRoot.MuiInputBase-fullWidth.MuiInput-fullWidth.MuiInputBase-formControl.MuiInput-formControl.MuiInputBase-adornedEnd{
+padding-right: 2px;
+}
+.Update #AutocompleteStreet .MuiAutocomplete-endAdornment {
+ position: relative;
+}
+.Update #AutocompleteCity .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiAutocomplete-inputRoot.MuiInputBase-fullWidth.MuiInput-fullWidth.MuiInputBase-formControl.MuiInput-formControl.MuiInputBase-adornedEnd{
+padding-right: 2px;
+}
+.Update #AutocompleteCity .MuiAutocomplete-endAdornment {
+position: relative;
+}
+
+img{width: 400px; height: 350px;}
+#checkboxinput{margin-top: 10px;}
+#checkboxDiv{height: 111px; display: inline-block;}
+.Update .Divlabel{
+margin-top: 3px;
+height: 92px;
+width: 818.5px;
+/* width: 794px; */
+border: 2px solid rgb(231, 228, 228);
+/* background-color: tomato; */
+outline: rgb(146, 144, 144) solid 1px;
+outline-offset: -17px;
+text-align: center;
+padding-right: 20px;
+padding-left: 20px;
+}
+
+.borderText{
+  width: fit-content;
+  margin-top: -10px;
+  margin-right: 15px;
+  background: rgb(255, 255, 255);
+  margin-bottom: 12px;
+  font-size: 14px;
+  padding-left: 5px;
+  padding-right: 5px;
+}
+.family{
+ width: 120px;
+}
+.family~.bar{
+  width: 120px;
+}
+
+/* .middleDiv{
+width: 68px;
+} */
+/* .grid-container {
+  display: grid;
+  grid-template-areas: 
+    'header header header header header header' 
+    'left left middle middle right right' 
+    'footer footer footer footer footer footer';
+}  */
+
+/* .left,
+.middle,
+.right {
+  padding: 10px;
+  height: 300px; 
+} */
+
+
+.open , .upd{
+padding: 3px;
+font-size: 15px;
+}
+.open{
+display: inline-block;
+}
+.upd{
+ float: left;
+}
+
+.Update .left {
+  /* position: absolute; */
+  /* left: 125px; */
+  /* top: -3px; */
+  display: inline-block;
+}
+
+.LABEL1{
+  font-weight: normal;
+  position: absolute;
+  pointer-events: none;
+  right: 5px;
+  top: -10px;
+  font-size: 14px;
+  color: #5264AE;
+}
+
+.Update .botm{
+  margin-bottom: 73px;
+  width: 1190px;
+  margin: auto auto 50px;
+  /* border: 2px gray solid; */
+  /* padding: 0px; */
+  height: 264px;
+}
+.Update-right {
+margin: auto;
+width: 818px;
+}
+
+.Update .Updatetop {
+  width: 818px;
+  margin: auto;
+  text-align: center;
+  padding-top: 5px;
+  margin-bottom: 15px;
+}
+
+.Update .Updatetop h3{
+  margin-top: 5px;
+  margin-bottom: 0;
+}
+.Update .Updatetop button , .Update .Updatetop h3{
+display: inline-block;
+}
+
+.labelCheckbox{
+  color:#999; 
+  font-size:18px;
+}
+
+
+.Update #beneathImg{
+height: 172px;
+text-align: center;
+background-color: rgb(172, 248, 172);
+overflow: auto;
+border: 2px solid gray;
+width: 818px;
+margin: auto;
+}
+
+#Holidays {
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#Holidays td, #Holidays th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+/* .Update-beneath{
+  text-align: center;
+  width: 818px;
+  margin: auto;
+  margin-top: 11px;
+} */
+
+.dates{
+  width: 818px;
+  margin: auto;
+  margin-top: 11px;
+  } 
+  .dates .num {
+  font-size: 12px;
+  }
+
+#Holidays tr:nth-child(even){background-color: #f2f2f2;}
+
+#Holidays tr:hover {background-color: #ddd;}
+
+#Holidays th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: center;
+  background-color: #4CAF50;
+  color: white;
+}
+
+.Update .MuiSelect-root.MuiSelect-select.MuiSelect-selectMenu.MuiInputBase-input.MuiInput-input {
+min-width: 80px;
+}
+
+span.MuiButton-endIcon.MuiButton-iconSizeMedium {
+margin-right: 100px;
+}
+
+/* form starting stylings ------------------------------- */
+.group 			  { 
+position: relative;
+/* margin-bottom: -55px; */
+display: inline-block;
+/* margin: 5px; */
+margin-left: 5px;
+margin-right: 5px;
+}
+input 				{
+font-size:18px;
+padding:10px 10px 10px 5px;
+display:inline-block;
+width:145px;
+border:none;
+border-bottom:1px solid #757575;
+}
+input:focus 		{ outline:none;}
+
+/* LABEL ======================================= */
+.LABEL 				 {
+color:#999; 
+font-size:18px;
+font-weight:normal;
+position:absolute;
+pointer-events:none;
+right:5px;
+top:10px;
+transition:0.2s ease all; 
+-moz-transition:0.2s ease all; 
+-webkit-transition:0.2s ease all;
+}
+
+/* active state */
+input:focus ~ label, input:valid ~ label 		{
+top:-10px;
+font-size:14px;
+color:#5264AE;
+}
+
+/* BOTTOM BARS ================================= */
+.bar 	{ 
+position:relative; display:block; width:145px; }
+.bar:before, .bar:after 	{
+content:'';
+height:2px; 
+width:0;
+bottom:1px; 
+position:absolute;
+background:#5264AE; 
+transition:0.2s ease all; 
+-moz-transition:0.2s ease all; 
+-webkit-transition:0.2s ease all;
+}
+.bar:before {
+left:50%;
+}
+.bar:after {
+right:50%; 
+}
+
+/* active state */
+input:focus ~ .bar:before, input:focus ~ .bar:after {
+width:50%;
+}
+
+/* HIGHLIGHTER ================================== */
+.highlight {
+position:absolute;
+height:60%; 
+width:100px; 
+top:25%; 
+left:0;
+pointer-events:none;
+opacity:0.5;
+}
+
+/* active state */
+input:focus ~ .highlight {
+
+-webkit-animation:inputHighlighter 0.3s ease;
+-moz-animation:inputHighlighter 0.3s ease;
+animation:inputHighlighter 0.3s ease;
+}
+
+/* ANIMATIONS ================ */
+@-webkit-keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; 
+}
+}
+@-moz-keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; 
+}
+}
+@keyframes inputHighlighter {
+from { background:#5264AE; }
+to 	{ width:0; background:transparent; 
+}
+}
+
+button.MuiButtonBase-root.MuiButton-root.MuiButton-contained.MuiButton-containedPrimary.MuiButton-containedSizeSmall.MuiButton-sizeSmall{
+position: unset;
+}
+
+.LoadToServer{
+  overflow: auto;
+  text-align: center;
+  margin-bottom: 100px;
+  border: 2px solid gray;
+  height: 172px;
+  width: 818px;
+  margin: auto;
+  padding: 0px 20px;
+}
+.Loadinput{
+font-size: 14px;
+  padding: 7px;
+  display: inline-block;
+  width: auto;
+  border: none;
+  margin-left: 10px;
+}
+
+.Loadinput1{
+font-size: 14px;
+  padding: 2px;
+  display: inline-block;
+  width: auto;
+  border: solid black 1px;
+  margin-left: 10px;
+}
+
+.Update .topnav {
+  overflow: hidden;
+  background-color: teal;
+  padding: 0;
+  width: 818px;
+  margin: auto;
+  padding-right: 25%;
+
+}
+.Update .topnav li {
+  float: right;
+  display: block;
+  color: #f2f2f2;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+.Update .topnav li:hover {
+  background-color: #ddd;
+  color: black; 
+}
+
+.Update .Family {
+  border: 2px gray solid
+}
+
+.Update .WebcamCapture {
+  margin: auto;
+  width: fit-content;
+}
+
+.Update .file  {
+  margin-right: 30px;
+  margin-top: 20px;
+  width: fit-content;
+  display: inline-block;
+}
+

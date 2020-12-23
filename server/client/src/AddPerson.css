@@ -1,0 +1,145 @@
+.AddPerson {
+  box-sizing: inherit;
+  bottom: 0;
+  right: 0;
+  overflow: hidden;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 14px;
+  line-height: 1.4286;
+}
+
+.AddPerson .b {
+  width: 28rem;
+  max-width: 100%;
+  box-sizing: inherit;
+  transition: .2s;
+  border-radius: 8px;
+  border: 1px solid #dadce0;
+  margin: 130px auto 0;
+  position: relative;
+  height: auto;
+  min-height: 380px;
+  box-sizing: inherit;
+  overflow-y: auto;
+  transition: .2s;
+  padding: 48px 40px 36px;
+  flex-grow: 1;
+  overflow: hidden;
+  -webkit-box-flex: 1;
+  background-color: #fff;
+}
+
+.AddPerson .c {
+  box-sizing: inherit;
+}
+
+.AddPerson .icon {
+  height: 24px;
+  box-sizing: inherit;
+
+}
+
+.AddPerson .d {
+  margin: auto -40px;
+  padding-right: 40px;
+  padding-left: 40px;
+  overflow: hidden;
+  box-sizing: inherit;
+
+}
+
+.AddPerson .e {
+  box-sizing: inherit;
+  text-align: center;
+}
+
+.AddPerson h1 {
+  color: #202124;
+  padding-bottom: 0;
+  padding-top: 16px;
+  font-family: 'Google Sans','Noto Sans Myanmar UI',arial,sans-serif;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 1.3333;
+  margin-bottom: 0;
+  margin-top: 0;
+  box-sizing: inherit;
+}
+
+.AddPerson .f {
+  color: #202124;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: .1px;
+  line-height: 1.5;
+  padding-bottom: 0;
+  padding-top: 8px;
+  margin-bottom: 0;
+  margin-top: 0;
+  box-sizing: inherit;
+}
+
+.AddPerson .f span {
+  color: #202124;
+  font-size: 16px;
+  font-weight: 400;
+  letter-spacing: .1px;
+  line-height: 1.5;
+  padding-bottom: 0;
+  padding-top: 8px;
+  text-align: center;
+  font-family: roboto,'Noto Sans Myanmar UI',arial,sans-serif;
+}
+
+.AddPerson .g {
+  display: inline-block;
+  font-size: 14px;
+  padding: 40px 0 0;
+  vertical-align: top;
+  white-space: normal;
+  width: 100%;
+  box-sizing: inherit;
+  border-right-width: 40px;
+  border-left-width: 40px;
+  text-align: center;
+}
+
+.AddPerson  label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled{
+  color: rgba(0, 0, 0, 0.54);
+  padding: 0;
+  font-size: 1rem;
+  font-family: "Roboto", "Helvetica", "Arial", sans-serif;
+  font-weight: 400;
+  line-height: 1;
+  letter-spacing: 0.00938em;
+  z-index: 0
+}
+
+.AddPerson .p {
+  -webkit-align-items: flex-start;
+  align-items: flex-start;
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-flex: 0;
+  box-flex: 0;
+  -webkit-flex-grow: 0;
+  flex-grow: 0;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-justify-content: space-between;
+  justify-content: space-between;
+  margin-top: 63px;
+  min-height: 48px;
+  padding-bottom: 20px;
+}
+
+.AddPerson .butadd{
+  background-color: #1a73e8;
+}
+
+.AddPerson .butcon{
+ background-color:brown;
+}

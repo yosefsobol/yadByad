@@ -1,0 +1,124 @@
+.ADD{
+    background-color: rgb(43,150,211);
+    margin: auto;
+    width: 30vw;
+    padding: 1.5vw;
+    text-align: center;
+    border: 2px double brown;
+    min-width: 330px;
+}
+
+.ADD h2{
+    margin-bottom: 15px;
+}
+.ADD label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated {
+  color: black; 
+}
+.ststusHolidays #AutocompleteCity input { color: antiquewhite!important; }
+.AddHoliday .ststusHolidays{
+    background-color: rgb(22,74,104);
+    margin: 20px auto 0;
+    width: 30vw;
+    padding: 1.5vw;
+    text-align: center; 
+    border: 2px double brown;
+    min-width: 330px;
+}
+
+.AddHoliday .ststusHolidays svg.MuiSvgIcon-root.MuiSelect-icon{
+right: 30px;
+}
+
+
+.table{
+    width: max-content;
+    margin: auto;
+  }
+  .table{
+    background-color: lightgrey;
+  }
+
+    
+    .table {
+      text-align: center;
+      font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+      border-collapse: collapse;
+      border: 3px solid #ddd;
+    }
+  
+    .table {
+      display: block;
+    }
+  
+    .table tr th {
+      position: sticky;
+      top: 0;
+    }
+  
+    .table td, .table th {
+      border: 1px solid #ddd;
+      padding: 5px;
+    }
+    
+    .table tr:nth-child(even){background-color: #f2f2f2;}
+    
+    .table tr:hover {background-color: #ddd;}
+    
+    .table th {
+      padding-top: 12px;
+      padding-bottom: 12px;
+      text-align: center;
+      background-color: gray;
+      color: white;
+    }
+
+
+.AddHoliday    .PackageNotCollected{
+  background-color:rgb(22,74,104);
+  margin: 20px auto 0;
+  width: 30vw;
+  padding: 0.2vw;
+  text-align: center; 
+  border: 2px double rgb(243, 171, 17);
+  min-width: 330px;
+  min-height: 360px;
+}
+    .AddHoliday    .ststusHolidaysfamley{
+      background-color: rgb(43,150,211);
+      margin: 20px auto 0;
+      width: 30vw;
+      padding: 0.2vw;
+      text-align: center; 
+      border: 2px double rgb(42, 81, 165);
+      min-width: 330px;
+      min-height: 360px;
+
+  }
+
+  .AddHoliday .MuiInputLabel-formControl {
+    right: 0!important;
+  color:whitesmoke ;
+}
+
+.AddHoliday #persons {
+  text-align: center;
+  font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  border: 3px solid #ddd;
+  display: block;
+  max-height: 600px;
+  overflow: auto;
+  margin: auto;
+  width: -webkit-max-content;
+  width: -moz-max-content;
+  width: fit-content;
+  max-height: 250px;
+  max-width: 331px;
+}
+
+
+.AddHoliday #table {
+  float: none;
+  overflow: none;
+  margin: auto;
+}

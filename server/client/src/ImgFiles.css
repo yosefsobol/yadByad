@@ -1,0 +1,31 @@
+.DivFiles {
+    position: fixed;
+    width: 100%;
+    /* height: 100%; */
+    overflow: auto;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    margin: auto;
+    background-color: rgba(0,0,0, 0.9);
+}
+
+.ImgFiles{
+    position: absolute;
+    left: 0;
+    right: 0;
+    padding: 1%;
+    border-radius: 2px;
+    width: auto;
+    max-width: -webkit-fill-available;
+    height: auto;
+    margin: auto;
+}
+
+.ButtonFiles {
+    display: block;
+    width: 50%;
+    padding: 0.3%;
+    margin: auto;
+}

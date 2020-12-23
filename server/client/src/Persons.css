@@ -1,0 +1,209 @@
+#Persons{
+  width: 94%;
+  margin: auto;
+}
+/* .Persons{ */
+  /* background-color: lightgrey; */
+/* } */
+#title {
+    text-align: center;
+    font-family: arial, sans-serif;
+  }
+  
+  #persons {
+    text-align: center;
+    font-family: "Trebuchet MS", Arial, Helvetica, sans-serif;
+    border-collapse: collapse;
+    border: 3px solid #ddd;
+    display: block;
+    max-height: 600px;
+    overflow: auto;
+    margin: auto;
+    width: max-content;
+  }
+
+  #persons tr th {
+    position: sticky;
+    top: 0;
+  }
+
+  #persons td, #persons th {
+    border: 1px solid #ddd;
+    padding: 4px;
+  }
+  
+  #persons tr:nth-child(even){background-color: darkseagreen;}
+  
+  #Excel{
+    padding: 3px 10px;
+    font-size: 0.8125rem;
+    color: rgba(0, 0, 0, 0.87);
+    box-shadow: 0px 3px 1px -2px rgba(0,0,0,0.2), 0px 2px 2px 0px rgba(0,0,0,0.14), 0px 1px 5px 0px rgba(0,0,0,0.12);
+    background-color: #e0e0e0;
+    color: rgba(0, 0, 0, 0.87);
+    box-sizing: border-box;
+    transition: background-color 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,box-shadow 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms,border 250ms cubic-bezier(0.4, 0, 0.2, 1) 0ms;
+    border-radius: 4px;
+    letter-spacing: 0.02857em;
+    text-transform: uppercase;
+margin-right: 20px;
+  }
+  #persons tr:hover {background-color: aqua;}
+  
+  #persons th {
+    padding-top: 12px;
+    padding-bottom: 12px;
+    text-align: center;
+    background-color: darkgray;
+    color: white;
+
+  }
+/* 
+  div#checkboxinput {
+    padding-top: 11px;
+  } */
+
+  .margin1{
+    padding-top: 8px;
+    /* margin-bottom: 5px; */
+    padding-bottom: 8px;
+    border-bottom: grey 1px solid;
+    height: auto;
+    background-color: #f2f2f2;
+    /* padding-left: 3px; */
+    padding-right: 7px;
+  }
+  .margin1 input{
+    background-color: #f2f2f2;
+  }
+  .margin2{
+    padding-top: 8px;
+    padding-bottom: 8px;
+    border-bottom: grey 1px solid;
+    height: auto;
+    background-color: #e7eaed;
+    /* padding-left: 3px; */
+    padding-right: 7px;
+  }
+  .margin2 input {
+    background-color: #e7eaed;
+  }
+  .marginchecked{
+    border-bottom: grey 1px solid;
+    height: auto;
+    background-color: #f2f2f2;
+}
+
+
+  .divgroup{
+    /* width:100%; */
+     /* display:inline-block; */
+     /* border:red solid 2px; */
+     padding-left: 10px;
+    padding-right: 10px;
+  }
+  .divgroup label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled {
+    transform: translate(0, 2.5px) scale(0.75);
+  }
+  .divgroup .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiInputBase-formControl.MuiInput-formControl{
+margin-top: 10px;
+  }
+
+ .divgroup label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated{
+  top: 0;
+  left: 0;
+  position: absolute;
+  transform: translate(0, 16px) scale(1);
+  }
+
+  #AutocompleteCity input{
+    background-color: transparent;
+  }
+
+  .Holidays svg.MuiSvgIcon-root.MuiSelect-icon{
+    margin-right: 120px;
+  }
+
+  /* .MaritalStatus svg.MuiSvgIcon-root.MuiSelect-icon{
+    margin-right: 106px;
+  } */
+
+  .Persons #MaritalStatus svg.MuiSvgIcon-root.MuiSelect-icon
+  {
+    right: 0;
+  }
+  .DateOfUpdate label.MuiFormLabel-root.MuiInputLabel-root.MuiInputLabel-formControl.MuiInputLabel-animated.MuiInputLabel-shrink.MuiFormLabel-filled {
+    /* -webkit-transform: translate(0, 2.5px) scale(0.75); */
+    transform: translate(0, -2.5px) scale(0.75);
+}
+
+.DateOfUpdate input{
+  background-color: transparent;
+}
+  #table{
+    float: left;
+    min-width: 64%;
+    overflow: auto;
+  }
+
+  .tbody{
+    height: 680px;
+    overflow: auto;
+
+  }
+
+  .DivSearch{
+    height: 597px;
+    width: 34%;
+    min-width: 471px;
+    display: inline-block;
+    /* margin-top: 20px; */
+    border: 2px solid rgb(231, 228, 228);
+    outline: rgb(146, 144, 144) solid 1px;
+    outline-offset: -17px;
+    text-align: center;
+    padding-right: 20px;
+    padding-left: 20px;
+    background-color: #f2f2f2;
+  }
+
+  .top{
+    padding-right: 332px;
+    padding-top: 10px;
+    padding-bottom: 5px;
+}
+  
+  .groupPersons{
+    position: relative;
+    /* margin-bottom: -55px; */
+    display: inline-block;
+    /* margin: 5px; */
+    margin-left: 3px;
+    margin-right: 4px;
+  }
+
+  .Persons .MuiInputLabel-formControl{
+    right: 0; 
+  }
+  .MuiSelect-icon{
+    margin-right: 97px;  
+  }
+
+  #AutocompleteStreet .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiAutocomplete-inputRoot.MuiInputBase-fullWidth.MuiInput-fullWidth.MuiInputBase-formControl.MuiInput-formControl.MuiInputBase-adornedEnd{
+    padding-right: 2px;
+   }
+   #AutocompleteStreet .MuiAutocomplete-endAdornment {
+     position: relative;
+   }
+  #AutocompleteCity .MuiInputBase-root.MuiInput-root.MuiInput-underline.MuiAutocomplete-inputRoot.MuiInputBase-fullWidth.MuiInput-fullWidth.MuiInputBase-formControl.MuiInput-formControl.MuiInputBase-adornedEnd{
+   padding-right: 2px;
+  }
+  #AutocompleteCity .MuiAutocomplete-endAdornment {
+    position: relative;
+  }
+
+  .MuiInputLabel-root{text-align: right; padding-left: 24px;}
+
+ .MuiFormControl-root.MuiTextField-root.MuiFormControl-fullWidth{
+  vertical-align: sub;
+}
