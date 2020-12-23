@@ -21,7 +21,6 @@ Below are pictures from the system </p>
 להלן תמונות מהמערכת</p>
 <br/><br/>
 ![Test Image 3](/server/img/3.png)
-<br/><br/>
 ![Test Image 3](/server/img/4.png)
 ![Test Image 3](/server/img/5.png)
 ![Test Image 3](/server/img/6.png)
