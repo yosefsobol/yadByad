@@ -19,15 +19,7 @@ Below are pictures from the system </p>
 </p>
 <p dir="rtl"> כיון שהאתר עם מידע אישי הוא מיועד רק לכניסת העובדים 
 להלן תמונות מהמערכת</p>
-<br/><br/>
-![Test Image 3](/server/img/3.png)
-![Test Image 3](/server/img/4.png)
-![Test Image 3](/server/img/5.png)
-![Test Image 3](/server/img/6.png)
-![Test Image 3](/server/img/7.png)
-![Test Image 3](/server/img/8.png)
-![Test Image 3](/server/img/9.png)
-![Test Image 3](/server/img/10.png)
-![Test Image 3](/server/img/11.png)
-![Test Image 3](/server/img/12.png)
+<br><br/>
+![](/server/img/3.png)
+
 
