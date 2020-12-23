@@ -19,7 +19,7 @@ Below are pictures from the system </p>
 </p>
 <p dir="rtl"> כיון שהאתר עם מידע אישי הוא מיועד רק לכניסת העובדים 
 להלן תמונות מהמערכת</p>
-<br><br/>
+
 ![](/server/img/3.png)
 
 
