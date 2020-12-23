@@ -7,7 +7,7 @@ And includes taking a photo and uploading files, searching by parameters, printi
 Scan a slip for an update, export to Excel and more. The site was built from end to end including uploading to the cloud and maintenance </p>
 <p> Because the site with personal information is only for the entry of employees
 Below are pictures from the system </p>
-
+<br/><br/><br/><br/><br/>
 <p dir="rtl">
 המטרה הייתה לקחת תוכנה ישנה לניהול נזקקים שיושבים מקומית בעמותה ולהפוך אותה לאתר תוכנה שרצה
 בדפדפן, מהיר, חדש, עם הוספת פונקציות בטכנולוגיות מתקדמות והפעלה בענן כך
