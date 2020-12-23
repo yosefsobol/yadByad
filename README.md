@@ -7,9 +7,9 @@ And includes taking a photo and uploading files, searching by parameters, printi
 Scan a slip for an update, export to Excel and more. The site was built from end to end including uploading to the cloud and maintenance </p>
 <p> Because the site with personal information is only for the entry of employees
 Below are pictures from the system </p>
-<br/><br/><br/><br/><br/>
+<br/><br/><br/>
 
-# מערכת יד ביד
+<h1 dir="rtl">מערכת יד ביד </h1> 
 <p dir="rtl">
 המטרה הייתה לקחת תוכנה ישנה לניהול נזקקים שיושבים מקומית בעמותה ולהפוך אותה לאתר תוכנה שרצה
 בדפדפן, מהיר, חדש, עם הוספת פונקציות בטכנולוגיות מתקדמות והפעלה בענן כך
@@ -19,15 +19,15 @@ Below are pictures from the system </p>
 </p>
 <p> כיון שהאתר עם מידע אישי הוא מיועד רק לכניסת העובדים 
 להלן תמונות מהמערכת</p>
-
-![Test Image 3](/server/img/3.png)
-![Test Image 3](/server/img/4.png)
-![Test Image 3](/server/img/5.png)
-![Test Image 3](/server/img/6.png)
-![Test Image 3](/server/img/7.png)
-![Test Image 3](/server/img/8.png)
-![Test Image 3](/server/img/9.png)
-![Test Image 3](/server/img/10.png)
-![Test Image 3](/server/img/11.png)
-![Test Image 3](/server/img/12.png)
+<br/><br/>
+![Test Image 3](/server/img/3.png)<br/><br/>
+![Test Image 3](/server/img/4.png)<br/><br/>
+![Test Image 3](/server/img/5.png)<br/><br/>
+![Test Image 3](/server/img/6.png)<br/><br/>
+![Test Image 3](/server/img/7.png)<br/><br/>
+![Test Image 3](/server/img/8.png)<br/><br/>
+![Test Image 3](/server/img/9.png)<br/><br/>
+![Test Image 3](/server/img/10.png)<br/><br/>
+![Test Image 3](/server/img/11.png)<br/><br/>
+![Test Image 3](/server/img/12.png)<br/><br/>
 
