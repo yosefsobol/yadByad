@@ -21,5 +21,13 @@ Below are pictures from the system </p>
 להלן תמונות מהמערכת</p>
 
 ![](/server/img/3.png)
-
+![](/server/img/4.png)
+![](/server/img/5.png)
+![](/server/img/6.png)
+![](/server/img/7.png)
+![](/server/img/8.png)
+![](/server/img/9.png)
+![](/server/img/10.png)
+![](/server/img/11.png)
+![](/server/img/12.png)
 
