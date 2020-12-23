@@ -9,7 +9,7 @@ Scan a slip for an update, export to Excel and more. The site was built from end
 Below are pictures from the system </p>
 <br/><br/><br/>
 
-<h1 dir="rtl">מערכת יד ביד </h1> 
+# <h1 dir="rtl">מערכת יד ביד </h1> 
 <p dir="rtl">
 המטרה הייתה לקחת תוכנה ישנה לניהול נזקקים שיושבים מקומית בעמותה ולהפוך אותה לאתר תוכנה שרצה
 בדפדפן, מהיר, חדש, עם הוספת פונקציות בטכנולוגיות מתקדמות והפעלה בענן כך
@@ -17,17 +17,18 @@ Below are pictures from the system </p>
 וכולל צילום והעלאת קבצים, חיפוש לפי פרמטרים, הדפסת תלוש עם ברקוד ייחודי,
 סרוק תלוש לעדכון, ייצא לאקסל ועוד. האתר נבנה מקצה לקצה כולל העלאה לענן ותחזוקה
 </p>
-<p> כיון שהאתר עם מידע אישי הוא מיועד רק לכניסת העובדים 
+<p dir="rtl"> כיון שהאתר עם מידע אישי הוא מיועד רק לכניסת העובדים 
 להלן תמונות מהמערכת</p>
 <br/><br/>
-![Test Image 3](/server/img/3.png)<br/><br/>
-![Test Image 3](/server/img/4.png)<br/><br/>
-![Test Image 3](/server/img/5.png)<br/><br/>
-![Test Image 3](/server/img/6.png)<br/><br/>
-![Test Image 3](/server/img/7.png)<br/><br/>
-![Test Image 3](/server/img/8.png)<br/><br/>
-![Test Image 3](/server/img/9.png)<br/><br/>
-![Test Image 3](/server/img/10.png)<br/><br/>
-![Test Image 3](/server/img/11.png)<br/><br/>
-![Test Image 3](/server/img/12.png)<br/><br/>
+![Test Image 3](/server/img/3.png)
+<br/><br/>
+![Test Image 3](/server/img/4.png)
+![Test Image 3](/server/img/5.png)
+![Test Image 3](/server/img/6.png)
+![Test Image 3](/server/img/7.png)
+![Test Image 3](/server/img/8.png)
+![Test Image 3](/server/img/9.png)
+![Test Image 3](/server/img/10.png)
+![Test Image 3](/server/img/11.png)
+![Test Image 3](/server/img/12.png)
 
